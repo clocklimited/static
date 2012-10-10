@@ -1,0 +1,16 @@
+{
+  "name": "build",
+  "version": "0.0.0",
+  "description": "Build system for static sites",
+  "main": "build.js",
+  "dependencies": {
+    "connect": "~2.6.0",
+    "jade": "~0.27.6",
+    "stylus": "~0.29.0",
+    "nib": "~0.8.2",
+    "colors": "~0.6.0-1",
+    "async": "~0.1.22",
+    "mkdirp": "~0.3.4",
+    "ncp": "~0.2.6"
+  }
+}
