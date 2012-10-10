@@ -1,5 +1,5 @@
 {
-  "name": "build",
+  "name": "static",
   "version": "0.0.0",
   "description": "Build system for static sites",
   "main": "build.js",
