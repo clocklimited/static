@@ -53,6 +53,7 @@ function stylesheets(cb) {
       stylus(data)
         .set('filename', dir + '/source/resource/css/' + ss + '.styl')
         .set('compress', config.compressCSS)
+        .set('linenos', config.stylusLinenos)
         .use(nib())
         .render(function(err, css) {
           if (err) return callback(err)
