@@ -1,5 +1,7 @@
 # Build and preview static sites
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/clocklimited/static.svg)](https://greenkeeper.io/)
+
 ```
 npm install git://github.com/clocklimited/static.git
 ```
